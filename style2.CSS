@@ -1,0 +1,24 @@
+@font-face {
+    font-family: police1 ;
+    src: url("./Super Shiny.ttf");
+
+}
+h1{
+    text-align: center;
+    color:rgb(0,0,0)
+}
+#g{
+    font-family: police1;
+    color: rgb(0, 255, 255);
+    font-size: 500px;
+    background-color:white;
+    text-align: center;
+}
+
+#Score{
+    font-family: police1;
+    color: aqua;
+    font-size: 500px;
+    background-color:white;
+    text-align: center;
+}
